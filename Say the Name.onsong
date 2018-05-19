@@ -1,0 +1,91 @@
+{t:Say The Name}
+{su:Martha Munizzi}
+{k:Eb}
+{d_t:74}
+{d_ok:D}
+{d_time:4/4}
+{d_ccli:3441709}
+{d_artist:Martha Munizzi}
+{d_author:Clint Brown/Martha Munizzi}
+{d_album:The Best Is Yet To Come}
+{f:©2002 Tribe Music Group, Martha Munizzi Music. CCLI Song No. 3441709. This chart is the property of Jason. Unauthorized distribution is prohibited. Words and music by Clint Brown/Martha Munizzi. }
+
+{c:Intro}
+[F/A][Fm7/Ab][Eb2/G][/][|][Ebm/Gb][Db/F][Dbm2/E][/][|][Gb/Ab][E/F#][Eb/F][Db/Fb][|][Abma9/Bb][/][/][/][|][Ab6/Bb][/]
+
+{c:Verse 1}
+Say the [Eb]name of [Fm/Eb]Jesus[Eb] [G7]say the [Cm9]name of [Eb2/C]Jesus [Cm7]
+[A7]Say the [Abma7]name so [Bb/Ab]pre - [Abma7]cious
+[Ebma7/G]There's [Fm7]no other [Eb/G]name[F/A] I [Fm7/Bb]know
+Say the [Eb]name of [Fm/Eb]Jesus[Eb] [G7]say the [Cm7]name of [Bb/C]Je - [Cm]sus
+[A7]Say the [Abma7]name   [Bb/Ab]so pre - [Abma7]cious [Ebma7/G]
+
+{soc}
+{c:Chorus 1}
+[Fm7]No other [Eb/G]name[F9/A] I [Fm7/Bb]know that can [Bbm7/Eb]calm your fears
+And [Eb7]dry your [A7]tears, and [Abma9]wipe a - [Eb/G]way your [Fm7]pain
+[C7]When you [Fm7]don't know what [Eb2/G]else to [Fm7/Bb]pray [Bb2/C]
+[C7/E]When you [Fm7]can't find [Eb/G]the words to [F/A]say,[Abm6] [Ab2/Bb]say the [Eb]name[Fm7]
+{eoc}
+
+{c:Verse 1}
+
+{soc}
+{c:Chorus 2}
+[Fm7]No other [Eb/G]name[F9/A] I [Fm7/Bb]know that can [Bbm7/Eb]calm your fears
+And [Eb7]dry your [A7]tears, and [Abma9]wipe a - [Eb/G]way your [Fm7]pain
+[C7]When you [Fm7]don't know what [Eb2/G]else to [Fm7/Bb]pray [Bb2/C]
+[C7/E]When you [Fm7]can't find [Eb/G]the words to [F/A]say,[Abm6] [Ab2/Bb]say the [Eb]name[Fm7][Bbm9/Eb][A7]
+{eoc}
+
+{c:Bridge}
+[Abma7]Jesus, [Eb2/G]Jesus[Cm9][/][Bbm9][A7(b5)] [Abma7]Jesus, [Eb/G]Jesus[Cm9][Cbm9][Bbm9][A7]
+[Abma7]Jesus, [Eb2/G]Jesus[Cm9][/][Bbm9][A7(b5)] [Abma7]Jesus, [Eb/G]Jesus
+
+{soc}
+{c:Chorus 2}
+[Cm9]He is [Ebma7]gonna [Abma7]make [Eb2/G]a way
+[Bb75]When you say Je - [Abma9]sus, [Eb/G]Jesus[Cbm9][Bbm9] [A7]oh [Abma7]Jesus, [Eb/G]Jesus
+[Cm9] He is [Ebma7/Bb]gonna [Fm/Ab]make[Eb2/G] a way
+Wen you [A7]say,[Abma9] oh Jesus Jesus, help me say [Eb/G]Jesus[Bb/C][Bb/D]
+[C7/E] When you [Fm7]don't know what [Eb/G]else to [Fm7/Bb]pray [Bb/C]
+[C7/E] And you [Fm7]can't find [Eb/G]the words[Fm7/Bb] to   say [Bb/C]
+[C7]When you [Fm9]can't make it [Eb/G]through another [Abm6]day
+{eoc}
+
+{c:Tag}
+Say the [Eb]Name [Fm7/Eb][Cm9][Fm7] [Fm7/Bb]say the [Eb2]name
+
+{define: F/A base-fret 1 frets x 0 3 2 1 1}
+{define: Ebm/Gb base-fret 1 frets 2 1 1 3 4 x}
+{define: C#/E# base-fret 1 frets 1 4 3 1 2 1}
+{define: C#/E base-fret 1 frets 0 4 3 1 2 1}
+{define: F#/G# base-fret 1 frets 4 1 4 x 2 2}
+{define: E/F# base-fret 1 frets 2 2 2 1 0 0}
+{define: Eb/F base-fret 1 frets 1 1 1 3 4 3}
+{define: C#/E base-fret 1 frets 0 4 3 1 2 1}
+{define: Eb base-fret 3 frets x 4 3 0 2 4}
+{define: Fm/Eb base-fret 1 frets x x 1 1 1 1}
+{define: G7 base-fret 1 frets 3 2 3 0 0 3}
+{define: Cm9 base-fret 1 frets x 3 1 0 3 3}
+{define: Cm7 base-fret 1 frets x 3 1 3 1 3}
+{define: A7 base-fret 1 frets x 0 2 0 2 0}
+{define: G#ma7 base-fret 1 frets 4 3 1 0 1 x}
+{define: Bb/Ab base-fret 1 frets 4 x 3 3 3 x}
+{define: Fm7 base-fret 1 frets 1 3 1 1 1 1}
+{define: Eb/G base-fret 1 frets 3 1 1 3 4 x}
+{define: Bb/C base-fret 1 frets x 3 0 3 3 1}
+{define: Cm base-fret 3 frets 1 1 3 3 2 1}
+{define: Eb7 base-fret 1 frets x x 1 0 2 3}
+{define: G#ma9 base-fret 1 frets 4 3 x 3 4 3}
+{define: C7 base-fret 1 frets 0 3 2 3 1 0}
+{define: C7/E base-fret 1 frets 0 3 2 3 1 0}
+{define: G#m6 base-fret 1 frets 4 2 1 1 4 1}
+{define: Bbm9 base-fret 1 frets x 4 3 1 1 1}
+{define: A7(b5) base-fret 1 frets x 0 1 0 2 3}
+{define: Bm9 base-fret 1 frets x 2 0 2 2 2}
+{define: Ebma7 base-fret 1 frets x x 1 0 3 3}
+{define: Fm/Ab base-fret 1 frets 4 3 3 1 1 1}
+{define: Bb/D base-fret 1 frets x x 0 3 3 1}
+{define: Fm9 base-fret 1 frets 1 3 1 0 4 4}
+{define: Eb2 base-fret 1 frets x x 1 3 4 1}
